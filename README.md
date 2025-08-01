@@ -4,8 +4,6 @@ Template from https://github.com/Test-MyDFIR/Test-MyDFIR/blob/main/README.md htt
 # Hello, I'm Ikaika
 <a href="https://linkedin.com/in/ikaikaleite"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with degree in applied cybersecurity, and a love for technology and complex problem solving.
-
 ## Certifications
 <div>
 <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blte92616127ffc3f86/63c71c14d1f34304558a3621/GPEN.png" width="75" height="75"/>
